@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jonathan-Amir07/Jonathan-Amir07/main/assets/readme.svg?t=1795154327" alt="Jonathan Amir: tech stack, GitHub contributions, top languages, merged open source PRs, and total commits" />
+  <img src="https://raw.githubusercontent.com/Jonathan-Amir07/Jonathan-Amir07/main/assets/readme.svg?t=1795187859" alt="Jonathan Amir: tech stack, GitHub contributions, top languages, merged open source PRs, and total commits" />
 </p>
